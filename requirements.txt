@@ -23,6 +23,7 @@ frozenlist==1.6.0
 fsspec==2025.5.0
 gitdb==4.0.12
 gitpython==3.1.44
+google-generativeai
 h11==0.16.0
 h2==4.2.0
 hf-xet==1.1.2
